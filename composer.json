@@ -1,0 +1,13 @@
+{
+    "name": "car4use/support",
+    "description": "Carsharing support application",
+    "require": {
+        "zendframework/zendframework1": "1.*"
+    },
+    "authors": [
+        {
+            "name": "ila",
+            "email": "milos.ilic@bitgear.rs"
+        }
+    ]
+}
